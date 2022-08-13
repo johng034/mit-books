@@ -8,8 +8,11 @@ The book was an enjoyable read, and it made me curious to find out the full sele
 For each book in the series, I collected the: 
 - Title
 - Author(s) 
+- Author(s)' website
 - Link to the book
+- Link to purchase the book
 - Publish date
+- Book length (number of pages)
 - Price
 
 ## Webscaping Tools
