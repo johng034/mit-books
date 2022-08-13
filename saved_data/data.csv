@@ -1,92 +1,70 @@
-title,authors,link,publish_date,price
-Fertility Technology,Donna J. Drucker,https://mitpress.mit.edu/books/fertility-technology,2023-02-14,$16.95
-Espionage,Kristie Macrakis,https://mitpress.mit.edu/books/espionage,2023-02-14,$16.95
-Causal Inference,Paul R. Rosenbaum,https://mitpress.mit.edu/books/causal-inference,2023-02-14,$16.95
-Pragmatism,John R. Shook,https://mitpress.mit.edu/books/pragmatism,2023-02-07,$16.95
-Happiness,Tim Lomas,https://mitpress.mit.edu/books/happiness-1,2023-01-03,$16.95
-Analog,Robert Hassan,https://mitpress.mit.edu/books/analog,2023-01-03,$16.95
-Whiteness,Martin Lund,https://mitpress.mit.edu/books/whiteness,2022-10-04,$16.95
-Placebos,Kathryn T Hall,https://mitpress.mit.edu/books/placebos,2022-10-04,$16.95
-Hunting,"Jan Dizard, Mary Zeiss Stange",https://mitpress.mit.edu/books/hunting,2022-09-20,$16.95
-Robot Ethics,Mark Coeckelbergh,https://mitpress.mit.edu/books/robot-ethics-1,2022-09-06,$16.95
-Neurolinguistics,Giosuè Baggio,https://mitpress.mit.edu/books/neurolinguistics,2022-05-10,$15.95
-Echo,Amit Pinchevski,https://mitpress.mit.edu/books/echo,2022-05-10,$16.95
-Content,Kate Eichhorn,https://mitpress.mit.edu/books/content,2022-05-10,$15.95
-Supernova,Or Graur,https://mitpress.mit.edu/books/supernova,2022-02-08,$16.95
-Nuclear Weapons,Mark Wolverton,https://mitpress.mit.edu/books/nuclear-weapons,2022-02-01,$16.95
-Biofabrication,Ritu Raman,https://mitpress.mit.edu/books/biofabrication,2021-09-14,$15.95
-Cybersecurity,Duane C. Wilson,https://mitpress.mit.edu/books/cybersecurity,2021-09-14,$15.95
-Death and Dying,"Nicole Piemonte, Shawn Abreu",https://mitpress.mit.edu/books/death-and-dying,2021-09-07,$15.95
-AI Assistants,Roberto Pieraccini,https://mitpress.mit.edu/books/ai-assistants,2021-09-07,$15.95
-Deconstruction,David J. Gunkel,https://mitpress.mit.edu/books/deconstruction,2021-09-07,$15.95
-Gender(s),Kathryn Bond Stockton,https://mitpress.mit.edu/books/genders,2021-08-31,$15.95
-"The Internet of Things, Revised And Updated Edition",Samuel Greengard,https://mitpress.mit.edu/books/internet-things-revised-and-updated-edition,2021-08-24,$15.95
-"Machine Learning, Revised And Updated Edition",Ethem Alpaydin,https://mitpress.mit.edu/books/machine-learning-revised-and-updated-edition,2021-08-17,$15.95
-Hate Speech,Caitlin Ring Carlson,https://mitpress.mit.edu/books/hate-speech,2021-04-06,$15.95
-Annotation,"Remi H. Kalir, Antero Garcia",https://mitpress.mit.edu/books/annotation,2021-04-06,$15.95
-Science Fiction,Sherryl Vint,https://mitpress.mit.edu/books/science-fiction-2,2021-02-16,$15.95
-Ketamine,Bita Moghaddam,https://mitpress.mit.edu/books/ketamine,2021-02-16,$15.95
-Recommendation Engines,Michael Schrage,https://mitpress.mit.edu/books/recommendation-engines,2020-09-01,$15.95
-Behavioral Insights,"Michael Hallsworth, Elspeth Kirkman",https://mitpress.mit.edu/books/behavioral-insights,2020-09-01,$15.95
-Algorithms,Panos Louridas,https://mitpress.mit.edu/books/algorithms,2020-08-18,$15.95
-Visual Culture,Alexis L. Boylan,https://mitpress.mit.edu/books/visual-culture-1,2020-08-11,$15.95
-Phenomenology,Chad Engelland,https://mitpress.mit.edu/books/phenomenology,2020-08-04,$15.95
-Anticorruption,Robert I. Rotberg,https://mitpress.mit.edu/books/anticorruption,2020-07-21,$15.95
-Cynicism,Ansgar Allen,https://mitpress.mit.edu/books/cynicism,2020-04-14,$15.95
-Critical Thinking,Jonathan Haber,https://mitpress.mit.edu/books/critical-thinking,2020-04-07,$15.95
-Extraterrestrials,Wade Roush,https://mitpress.mit.edu/books/extraterrestrials,2020-04-07,$15.95
-Contraception,Donna J. Drucker,https://mitpress.mit.edu/books/contraception,2020-04-07,$15.95
-AI Ethics,Mark Coeckelbergh,https://mitpress.mit.edu/books/ai-ethics,2020-04-07,$15.95
-Macroeconomics,Felipe Larraín B.,https://mitpress.mit.edu/books/macroeconomics,2020-03-17,$15.95
-fMRI,Peter A. Bandettini,https://mitpress.mit.edu/books/fmri,2020-02-25,$15.95
-Collaborative Society,"Dariusz Jemielniak, Aleksandra Przegalinska",https://mitpress.mit.edu/books/collaborative-society,2020-02-18,$15.95
-Irony and Sarcasm,Roger Kreuz,https://mitpress.mit.edu/books/irony-and-sarcasm,2020-02-18,$15.95
-Quantum Entanglement,Jed Brody,https://mitpress.mit.edu/books/quantum-entanglement,2020-02-18,$15.95
-Spatial Computing,"Shashi Shekhar, Pamela Vold",https://mitpress.mit.edu/books/spatial-computing,2020-02-18,$15.95
-Smart Cities,Germaine Halegoua,https://mitpress.mit.edu/books/smart-cities,2020-02-18,$15.95
-Recycling,Finn Arne Jørgensen,https://mitpress.mit.edu/books/recycling,2019-11-12,$15.95
-Citizenship,Dimitry Kochenov,https://mitpress.mit.edu/books/citizenship,2019-11-12,$15.95
-Fake Photos,Hany Farid,https://mitpress.mit.edu/books/fake-photos,2019-09-10,$15.95
-Nihilism,Nolen Gertz,https://mitpress.mit.edu/books/nihilism,2019-09-10,$15.95
-Virtual Reality,Samuel Greengard,https://mitpress.mit.edu/books/virtual-reality,2019-09-10,$15.95
-Deep Learning,John D. Kelleher,https://mitpress.mit.edu/books/deep-learning-1,2019-09-10,$15.95
-Food,Fabio Parasecoli,https://mitpress.mit.edu/books/food-1,2019-05-21,$15.95
-Computational Thinking,"Peter J. Denning, Matti Tedre",https://mitpress.mit.edu/books/computational-thinking,2019-05-14,$15.95
-Sexual Consent,Milena Popova,https://mitpress.mit.edu/books/sexual-consent,2019-05-07,$15.95
-3D Printing,John M. Jordan,https://mitpress.mit.edu/books/3d-printing,2019-03-12,$15.95
-GPS,Paul E. Ceruzzi,https://mitpress.mit.edu/books/gps,2018-11-06,$15.95
-Spaceflight,Michael J. Neufeld,https://mitpress.mit.edu/books/spaceflight,2018-10-16,$15.95
-School Choice,David R. Garcia,https://mitpress.mit.edu/books/school-choice,2018-09-18,$15.95
-Carbon Capture,Howard J. Herzog,https://mitpress.mit.edu/books/carbon-capture,2018-09-11,$16.95
-Haptics,Lynette Jones,https://mitpress.mit.edu/books/haptics,2018-09-04,$15.95
-Extremism,J. M. Berger,https://mitpress.mit.edu/books/extremism,2018-08-28,$16.95
-The Book,Amaranth Borsuk,https://mitpress.mit.edu/books/book,2018-05-04,$16.95
-Data Science,"John D. Kelleher, Brendan Tierney",https://mitpress.mit.edu/books/data-science,2018-04-13,$15.95
-Synesthesia,Richard E. Cytowic,https://mitpress.mit.edu/books/synesthesia,2018-03-09,$15.95
-Post-Truth,Lee McIntyre,https://mitpress.mit.edu/books/post-truth,2018-02-16,$15.95
-The Future,Nick Montfort,https://mitpress.mit.edu/books/future,2017-12-08,$15.95
-Machine Translation,Thierry Poibeau,https://mitpress.mit.edu/books/machine-translation-1,2017-09-15,$15.95
-Information and Society,Michael Buckland,https://mitpress.mit.edu/books/information-and-society,2017-03-03,$15.95
-Robots,John M. Jordan,https://mitpress.mit.edu/books/robots,2016-10-14,$15.95
-Machine Learning,Ethem Alpaydin,https://mitpress.mit.edu/books/machine-learning,2016-10-07,$15.95
-The Mind–Body Problem,Jonathan Westphal,https://mitpress.mit.edu/books/mind-body-problem,2016-09-30,$16.95
-Neuroplasticity,Moheb Costandi,https://mitpress.mit.edu/books/neuroplasticity,2016-08-19,$16.95
-Self-Tracking,"Gina Neff, Dawn Nafus",https://mitpress.mit.edu/books/self-tracking,2016-06-24,$15.95
-Cloud Computing,Nayan B. Ruparelia,https://mitpress.mit.edu/books/cloud-computing,2016-05-13,$15.95
-Auctions,"Timothy P. Hubbard, Harry J. Paarsch",https://mitpress.mit.edu/books/auctions,2016-01-06,$15.95
-Metadata,Jeffrey Pomerantz,https://mitpress.mit.edu/books/metadata,2015-11-06,$16.95
-Sustainability,Kent E. Portney,https://mitpress.mit.edu/books/sustainability,2015-10-09,$15.95
-The Technological Singularity,Murray Shanahan,https://mitpress.mit.edu/books/technological-singularity,2015-08-07,$16.95
-The Internet of Things,Samuel Greengard,https://mitpress.mit.edu/books/internet-things,2015-03-20,$15.95
-MOOCs,Jonathan Haber,https://mitpress.mit.edu/books/moocs,2014-09-26,$15.95
-Understanding Beliefs,Nils J. Nilsson,https://mitpress.mit.edu/books/understanding-beliefs,2014-08-15,$16.95
-The Conscious Mind,Zoltan Torey,https://mitpress.mit.edu/books/conscious-mind,2014-08-08,$16.95
-Paradox,Margaret Cuonzo,https://mitpress.mit.edu/books/paradox,2014-02-14,$15.95
-Free Will,Mark Balaguer,https://mitpress.mit.edu/books/free-will,2014-02-14,$15.95
-Memes in Digital Culture,Limor Shifman,https://mitpress.mit.edu/books/memes-digital-culture,2013-10-04,$15.95
-Crowdsourcing,Daren C. Brabham,https://mitpress.mit.edu/books/crowdsourcing,2013-05-10,$15.95
-Waves,Fredric Raichlen,https://mitpress.mit.edu/books/waves,2012-10-19,$16.95
-Open Access,Peter Suber,https://mitpress.mit.edu/books/open-access,2012-07-20,$15.95
-Computing,Paul E. Ceruzzi,https://mitpress.mit.edu/books/computing-1,2012-06-15,$16.95
-Information and the Modern Corporation,James W. Cortada,https://mitpress.mit.edu/books/information-and-modern-corporation,2011-10-07,$15.95
-Intellectual Property Strategy,John Palfrey,https://mitpress.mit.edu/books/intellectual-property-strategy,2011-10-07,$15.95
+title,link,authors,authors_webpage,publish_date,book_length,price,purchase_links
+The Future,https://mitpress.mit.edu/9780262534819/the-future,Nick Montfort,https://mitpress.mit.edu/author/nick-montfort-4107,"December 8, 2017",192,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262534819
+Critical Thinking,https://mitpress.mit.edu/9780262538282/critical-thinking,Jonathan Haber,https://mitpress.mit.edu/author/jonathan-haber-21957,"April 7, 2020",232,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262538282
+Hunting,https://mitpress.mit.edu/9780262543293/hunting,Jan E. Dizard & Mary Zeiss Stange,https://mitpress.mit.edu/author/jan-e-dizard-34146 & https://mitpress.mit.edu/author/mary-zeiss-stange-34147,"October 4, 2022",248,$16.95,https://www.penguinrandomhouse.com/search/site/?q=9780262543293
+Content,https://mitpress.mit.edu/9780262543286/content,Kate Eichhorn,https://mitpress.mit.edu/author/kate-eichhorn-21842,"May 10, 2022",192,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262543286
+"Machine Learning, revised and updated edition",https://mitpress.mit.edu/9780262542524/machine-learning,Ethem Alpaydın,https://mitpress.mit.edu/author/ethem-alpaydn-1089,"August 17, 2021",280,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262542524
+Macroeconomics,https://mitpress.mit.edu/9780262538572/macroeconomics,Felipe Larraín B.,https://mitpress.mit.edu/author/felipe-larrain-b-13187,"March 17, 2020",296,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262538572
+fMRI,https://mitpress.mit.edu/9780262538039/fmri,Peter A. Bandettini,https://mitpress.mit.edu/author/peter-a-bandettini-15778,"February 25, 2020",280,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262538039
+Collaborative Society,https://mitpress.mit.edu/9780262537919/collaborative-society,Dariusz Jemielniak & Aleksandra Przegalinska,https://mitpress.mit.edu/author/dariusz-jemielniak-19785 & https://mitpress.mit.edu/author/aleksandra-przegalinska-28238,"February 18, 2020",256,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262537919
+GPS,https://mitpress.mit.edu/9780262535953/gps,Paul E. Ceruzzi,https://mitpress.mit.edu/author/paul-e-ceruzzi-4023,"November 6, 2018",232,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262535953
+School Choice,https://mitpress.mit.edu/9780262535908/school-choice,David R. Garcia,https://mitpress.mit.edu/author/david-r-garcia-28397,"September 18, 2018",216,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262535908
+Haptics,https://mitpress.mit.edu/9780262535809/haptics,Lynette Jones,https://mitpress.mit.edu/author/lynette-jones-26298,"September 4, 2018",192,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262535809
+Machine Translation,https://mitpress.mit.edu/9780262534215/machine-translation,Thierry Poibeau,https://mitpress.mit.edu/author/thierry-poibeau-24043,"September 15, 2017",296,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262534215
+Paradox,https://mitpress.mit.edu/9780262525497/paradox,Margaret Cuonzo,https://mitpress.mit.edu/author/margaret-cuonzo-20791,"February 14, 2014",240,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262525497
+Analog,https://mitpress.mit.edu/9780262544498/analog,Robert Hassan,https://mitpress.mit.edu/author/robert-hassan-22991,"January 3, 2023",272,$16.95,https://www.penguinrandomhouse.com/search/site/?q=9780262544498
+Happiness,https://mitpress.mit.edu/9780262544207/happiness,Tim Lomas,https://mitpress.mit.edu/author/tim-lomas-26931,"January 3, 2023",304,$16.95,https://www.penguinrandomhouse.com/search/site/?q=9780262544207
+Placebos,https://mitpress.mit.edu/9780262544252/placebos,Kathryn T Hall,https://mitpress.mit.edu/author/kathryn-t-hall-33978,"October 4, 2022",216,$16.95,https://www.penguinrandomhouse.com/search/site/?q=9780262544252
+Whiteness,https://mitpress.mit.edu/9780262544191/whiteness,Martin Lund,https://mitpress.mit.edu/author/martin-lund-34553,"October 4, 2022",272,$16.95,https://www.penguinrandomhouse.com/search/site/?q=9780262544191
+Robot Ethics,https://mitpress.mit.edu/9780262544092/robot-ethics,Mark Coeckelbergh,https://mitpress.mit.edu/author/mark-coeckelbergh-25812,"September 6, 2022",272,$16.95,https://www.penguinrandomhouse.com/search/site/?q=9780262544092
+Neurolinguistics,https://mitpress.mit.edu/9780262543262/neurolinguistics,Giosuè Baggio,https://mitpress.mit.edu/author/giosue-baggio-12851,"May 10, 2022",224,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262543262
+Echo,https://mitpress.mit.edu/9780262543408/echo,Amit Pinchevski,https://mitpress.mit.edu/author/amit-pinchevski-33388,"May 10, 2022",232,$16.95,https://www.penguinrandomhouse.com/search/site/?q=9780262543408
+Supernova,https://mitpress.mit.edu/9780262543149/supernova,Or Graur,https://mitpress.mit.edu/author/or-graur-32668,"February 8, 2022",240,$16.95,https://www.penguinrandomhouse.com/search/site/?q=9780262543149
+Nuclear Weapons,https://mitpress.mit.edu/9780262543316/nuclear-weapons,Mark Wolverton,https://mitpress.mit.edu/author/mark-wolverton-28331,"February 1, 2022",280,$16.95,https://www.penguinrandomhouse.com/search/site/?q=9780262543316
+Cybersecurity,https://mitpress.mit.edu/9780262542548/cybersecurity,Duane C. Wilson,https://mitpress.mit.edu/author/duane-c-wilson-28430,"September 14, 2021",160,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262542548
+Biofabrication,https://mitpress.mit.edu/9780262542968/biofabrication,Ritu Raman,https://mitpress.mit.edu/author/ritu-raman-32773,"September 14, 2021",216,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262542968
+Death and Dying,https://mitpress.mit.edu/9780262542425/death-and-dying,Nicole Piemonte & Shawn Abreu,https://mitpress.mit.edu/author/nicole-piemonte-27774 & https://mitpress.mit.edu/author/shawn-abreu-31775,"September 7, 2021",248,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262542425
+AI Assistants,https://mitpress.mit.edu/9780262542555/ai-assistants,Roberto Pieraccini,https://mitpress.mit.edu/author/roberto-pieraccini-16458,"September 7, 2021",288,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262542555
+Deconstruction,https://mitpress.mit.edu/9780262542470/deconstruction,David J. Gunkel,https://mitpress.mit.edu/author/david-j-gunkel-16058,"September 7, 2021",200,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262542470
+Gender(s),https://mitpress.mit.edu/9780262542609/genders,Kathryn Bond Stockton,https://mitpress.mit.edu/author/kathryn-bond-stockton-34573,"August 31, 2021",256,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262542609
+"The Internet of Things, revised and updated edition",https://mitpress.mit.edu/9780262542623/the-internet-of-things,Samuel Greengard,https://mitpress.mit.edu/author/samuel-greengard-22712,"August 24, 2021",296,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262542623
+Annotation,https://mitpress.mit.edu/9780262539920/annotation,Remi H. Kalir & Antero Garcia,https://mitpress.mit.edu/author/remi-h-kalir-32405 & https://mitpress.mit.edu/author/antero-garcia-22365,"April 6, 2021",232,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262539920
+Hate Speech,https://mitpress.mit.edu/9780262539906/hate-speech,Caitlin Ring Carlson,https://mitpress.mit.edu/author/caitlin-ring-carlson-32570,"April 6, 2021",200,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262539906
+Science Fiction,https://mitpress.mit.edu/9780262539999/science-fiction,Sherryl Vint,https://mitpress.mit.edu/author/sherryl-vint-29534,"February 16, 2021",224,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262539999
+Ketamine,https://mitpress.mit.edu/9780262542241/ketamine,Bita Moghaddam,https://mitpress.mit.edu/author/bita-moghaddam-15562,"February 16, 2021",200,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262542241
+Recommendation Engines,https://mitpress.mit.edu/9780262539074/recommendation-engines,Michael Schrage,https://mitpress.mit.edu/author/michael-schrage-15361,"September 1, 2020",304,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262539074
+Behavioral Insights,https://mitpress.mit.edu/9780262539401/behavioral-insights,Michael Hallsworth & Elspeth Kirkman,https://mitpress.mit.edu/author/michael-hallsworth-33251 & https://mitpress.mit.edu/author/elspeth-kirkman-33252,"September 1, 2020",248,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262539401
+Algorithms,https://mitpress.mit.edu/9780262539029/algorithms,Panos Louridas,https://mitpress.mit.edu/author/panos-louridas-23692,"August 18, 2020",312,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262539029
+Visual Culture,https://mitpress.mit.edu/9780262539364/visual-culture,Alexis L. Boylan,https://mitpress.mit.edu/author/alexis-l-boylan-31700,"August 11, 2020",248,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262539364
+Phenomenology,https://mitpress.mit.edu/9780262539319/phenomenology,Chad Engelland,https://mitpress.mit.edu/author/chad-engelland-21633,"August 4, 2020",264,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262539319
+Anticorruption,https://mitpress.mit.edu/9780262538831/anticorruption,Robert I. Rotberg,https://mitpress.mit.edu/author/robert-i-rotberg-7442,"July 21, 2020",272,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262538831
+Cynicism,https://mitpress.mit.edu/9780262537889/cynicism,Ansgar Allen,https://mitpress.mit.edu/author/ansgar-allen-28512,"April 14, 2020",280,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262537889
+Contraception,https://mitpress.mit.edu/9780262538428/contraception,Donna J. Drucker,https://mitpress.mit.edu/author/donna-j-drucker-17704,"April 7, 2020",264,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262538428
+Extraterrestrials,https://mitpress.mit.edu/9780262538435/extraterrestrials,Wade Roush,https://mitpress.mit.edu/author/wade-roush-27966,"April 7, 2020",240,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262538435
+AI Ethics,https://mitpress.mit.edu/9780262538190/ai-ethics,Mark Coeckelbergh,https://mitpress.mit.edu/author/mark-coeckelbergh-25812,"April 7, 2020",248,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262538190
+Spatial Computing,https://mitpress.mit.edu/9780262538046/spatial-computing,Shashi Shekhar & Pamela Vold,https://mitpress.mit.edu/author/shashi-shekhar-27374 & https://mitpress.mit.edu/author/pamela-vold-27375,"February 18, 2020",256,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262538046
+Smart Cities,https://mitpress.mit.edu/9780262538053/smart-cities,Germaine Halegoua,https://mitpress.mit.edu/author/germaine-halegoua-17179,"February 18, 2020",248,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262538053
+Quantum Entanglement,https://mitpress.mit.edu/9780262538442/quantum-entanglement,Jed Brody,https://mitpress.mit.edu/author/jed-brody-32281,"February 18, 2020",184,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262538442
+Irony and Sarcasm,https://mitpress.mit.edu/9780262538268/irony-and-sarcasm,Roger Kreuz,https://mitpress.mit.edu/author/roger-kreuz-22694,"February 18, 2020",232,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262538268
+Recycling,https://mitpress.mit.edu/9780262537827/recycling,Finn Arne Jørgensen,https://mitpress.mit.edu/author/finn-arne-jorgensen-20224,"November 12, 2019",208,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262537827
+Citizenship,https://mitpress.mit.edu/9780262537797/citizenship,Dimitry Kochenov,https://mitpress.mit.edu/author/dimitry-kochenov-27575,"November 12, 2019",344,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262537797
+Fake Photos,https://mitpress.mit.edu/9780262537490/fake-photos,Hany Farid,https://mitpress.mit.edu/author/hany-farid-23716,"September 10, 2019",232,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262537490
+Deep Learning,https://mitpress.mit.edu/9780262537551/deep-learning,John D. Kelleher,https://mitpress.mit.edu/author/john-d-kelleher-19876,"September 10, 2019",296,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262537551
+Nihilism,https://mitpress.mit.edu/9780262537179/nihilism,Nolen Gertz,https://mitpress.mit.edu/author/nolen-gertz-29045,"September 10, 2019",224,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262537179
+Virtual Reality,https://mitpress.mit.edu/9780262537520/virtual-reality,Samuel Greengard,https://mitpress.mit.edu/author/samuel-greengard-22712,"September 10, 2019",264,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262537520
+Food,https://mitpress.mit.edu/9780262537315/food,Fabio Parasecoli,https://mitpress.mit.edu/author/fabio-parasecoli-28507,"May 21, 2019",232,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262537315
+Computational Thinking,https://mitpress.mit.edu/9780262536561/computational-thinking,Peter J. Denning & Matti Tedre,https://mitpress.mit.edu/author/peter-j-denning-13845 & https://mitpress.mit.edu/author/matti-tedre-8919,"May 14, 2019",264,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262536561
+Sexual Consent,https://mitpress.mit.edu/9780262537322/sexual-consent,Milena Popova,https://mitpress.mit.edu/author/milena-popova-31248,"May 7, 2019",216,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262537322
+3D Printing,https://mitpress.mit.edu/9780262536684/3d-printing,John M. Jordan,https://mitpress.mit.edu/author/john-m-jordan-24118,"March 12, 2019",240,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262536684
+Spaceflight,https://mitpress.mit.edu/9780262536332/spaceflight,Michael J. Neufeld,https://mitpress.mit.edu/author/michael-j-neufeld-27284,"October 16, 2018",248,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262536332
+Carbon Capture,https://mitpress.mit.edu/9780262535755/carbon-capture,Howard J. Herzog,https://mitpress.mit.edu/author/howard-j-herzog-27843,"September 11, 2018",216,$16.95,https://www.penguinrandomhouse.com/search/site/?q=9780262535755
+Extremism,https://mitpress.mit.edu/9780262535878/extremism,J. M. Berger,https://mitpress.mit.edu/author/j-m-berger-28577,"August 28, 2018",216,$16.95,https://www.penguinrandomhouse.com/search/site/?q=9780262535878
+The Book,https://mitpress.mit.edu/9780262535410/the-book,Amaranth Borsuk,https://mitpress.mit.edu/author/amaranth-borsuk-24538,"May 4, 2018",344,$16.95,https://www.penguinrandomhouse.com/search/site/?q=9780262535410
+Data Science,https://mitpress.mit.edu/9780262535434/data-science,John D. Kelleher & Brendan Tierney,https://mitpress.mit.edu/author/john-d-kelleher-19876 & https://mitpress.mit.edu/author/brendan-tierney-26222,"April 13, 2018",280,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262535434
+Synesthesia,https://mitpress.mit.edu/9780262535090/synesthesia,Richard E. Cytowic,https://mitpress.mit.edu/author/richard-e-cytowic-4555,"March 9, 2018",288,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262535090
+Post-Truth,https://mitpress.mit.edu/9780262535045/post-truth,Lee McIntyre,https://mitpress.mit.edu/author/lee-mcintyre-2985,"February 16, 2018",240,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262535045
+Information and Society,https://mitpress.mit.edu/9780262533386/information-and-society,Michael Buckland,https://mitpress.mit.edu/author/michael-buckland-10168,"March 3, 2017",232,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262533386
+MOOCs,https://mitpress.mit.edu/9780262526913/moocs,Jonathan Haber,https://mitpress.mit.edu/author/jonathan-haber-21957,"September 26, 2014",248,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262526913
+The Conscious Mind,https://mitpress.mit.edu/9780262527101/the-conscious-mind,Zoltan Torey,https://mitpress.mit.edu/author/zoltan-torey-11949,"August 8, 2014",208,$16.95,https://www.penguinrandomhouse.com/search/site/?q=9780262527101
+Free Will,https://mitpress.mit.edu/9780262525794/free-will,Mark Balaguer,https://mitpress.mit.edu/author/mark-balaguer-13441,"February 14, 2014",152,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262525794
+Information and the Modern Corporation,https://mitpress.mit.edu/9780262516419/information-and-the-modern-corporation,James W. Cortada,https://mitpress.mit.edu/author/james-w-cortada-5834,"October 7, 2011",176,$15.95,https://www.penguinrandomhouse.com/search/site/?q=9780262516419
